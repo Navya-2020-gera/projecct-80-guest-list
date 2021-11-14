@@ -1,0 +1,23 @@
+submit_button{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+sort_button{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display :none;
+}
+#display_with_commas{
+    border:1px solid green;
+    padding:10px;
+    background-color: greenyellow;
+    border-radius: 10px;
+    width: 50%;
+}
+#display_without_commas{
+    border:1px solid red;
+    padding:10px;
+    background-color:lightcoral;
+    border-radius: 10px;
+    width: 50%;
+}
